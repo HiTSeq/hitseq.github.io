@@ -11,8 +11,8 @@ title: Submissions
   section of the Bioinformatics journal. Papers requiring extensive
   revisions will be considered separately as regular papers for the
   Bioinformatics or Bioinformatics Advances journals and as abstracts
-  for HiTSeq. All manuscripts should be submitted via the <a href="https://www.iscb.org/ismb2024">ISMB
-    2024</a> Proceedings submission system. During submission please
+  for HiTSeq. All manuscripts should be submitted via the <a href="https://www.iscb.org/ismbeccb2025">ISMB/ECCB
+    2025</a> Proceedings submission system. During submission please
   select the general subject of your submissions, and then make sure
   to <strong>specify</strong> <strong>HiTSeq</strong> as the COSI of
   your submission, to ensure your manuscript is assigned to our track.
@@ -22,21 +22,16 @@ title: Submissions
 
 <div class="box">
   <h2>Call for Abstracts</h2>
-  <p> </p>
-  <!--
-      <p><span style="color: red;">Due to the COVID-19 pandemic, HiTSeq                2020 is going virtual  with the rest of <a href="https://www.iscb.org/ismb2020">ISMB                  2020</a>! We will use a remote presentation platform for the                keynotes and talks selected from both proceedings and abstracts                with virtual session chair moderation and Q&amp;A. We will also                have a system ready for poster presentations with pre-recorded                short presentation videos. We strongly encourage everyone to                submit abstracts for talk and poster selections. Please keep                following our <a href="https://twitter.com/HiTSeq">Twitter                  account</a> for more announcements.</span></p> -->
-  <p><span style="color: red;"><br />
-  </span> </p>
   <p> We are soliciting high-quality <b>unpublished</b> abstracts.
     Accepted abstracts will be presented at HiTSeq as either posters
-    or talks. All abstracts should be submitted via the <a href="https://easychair.org/conferences/?conf=ismbe024abstract">ISMB
-      2024 Abstracts submission system</a>. <b>Please make sure to
+    or talks. All abstracts should be submitted via the
+    <!-- TODO
+    <a href="https://easychair.org/conferences/?conf=ismbe024abstract">-->
+    ISMB/ECCB 2025 Abstracts submission system<!-- </a>-->. <b>Please make sure to
       select HiTSeq as track </b>to ensure your manuscript is
     assigned to our track. Please submit your abstracts as 1-2 page
     PDF files, with font size 11, and <i>reasonable</i> margins. </p>
-  <p><br />
-  </p>
-  <p> You can submit either: <br />
+  <p> You can submit either: 
     <br />
   </p>
   <ul>
@@ -45,15 +40,13 @@ title: Submissions
     <li> Published work for the Highlights Track: Full published paper
       with a cover letter stating why your work should be highlighted
       at HiTSeq. </li>
-    <li><br />
-    </li>
   </ul>
   <p> HiTSeq late abstracts will be evaluated for selection as posters
     only. The abstracts should target topics of immediate relevance in
     the field. To be considered for an oral presentation the material
     should not have been previously published in any journal or
     proceedings. </p>
-  Abstracts should be divided in "Background", "Results", and
+  <p>Abstracts should be divided in "Background", "Results", and
   "Conclusions" sections, and can extend to up to 2 pages in order to
   permit proper review and assignment to poster or talks. Unless the
   authors specify that the submission is for poster presentation only,
@@ -65,7 +58,7 @@ title: Submissions
   and present their work promptly, else their slot will be allocated
   to other abstract. All proceedings paper submissions will be
   automatically considered for abstracts irrespective of the outcome
-  of the full paper review.<br />
+  of the full paper review.</p>
   <p><br />
   </p>
   <!--

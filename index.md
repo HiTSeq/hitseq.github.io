@@ -5,12 +5,12 @@ title: Home
 
 
 <div class="box">
-            <h2>Welcome to HiTSeq 2024<!-- Place this tag where you want the +1 button to render. -->
+            <h2>Welcome to HiTSeq 2025<!-- Place this tag where you want the +1 button to render. -->
             </h2>
             HiTSeq is the yearly gathering of the ISCB Community of Special
             Interest in High Throughput Sequencing algorithms. This meeting
-            takes the form of a topical track at the <a href="https://www.iscb.org/ismb2024"
-              target="_top">ISMB 2024 Conference</a>, and is devoted to the
+            takes the form of a topical track at the <a href="https://www.iscb.org/ismbeccb2025/home"
+              target="_top">ISMB/ECCB 2025 Conference</a>, and is devoted to the
             latest advances in computational techniques for the analysis of
             high-throughput sequencing (HTS) data. It provides a forum for in
             depth presentations of novel algorithms, analysis methods, and
@@ -42,8 +42,8 @@ title: Home
                   that enable discovery of new forms of genome variation. With
                   these innovations new methodological aspects and errors are
                   generated and need to be managed.
-                  <p></p>
-                </span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#595959"><b></b></span></li>
+                  
+                </span></li>
             </ul>
 </div>
 
@@ -53,9 +53,7 @@ title: Home
               <li class="first"> <br />
               </li>
               <li>
-                <h4>Topics of Interest<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#595959"><span
-                      style="color: #212121;"></span></span></h4>
-                <span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#595959">
+                <h4>Topics of Interest</h4>
                   Applications of HTS range from genome sequencing and assembly,
                   genetic variation analysis, cancer genomics, transcriptomics,
                   epigenetics, metagenomics, and general sequence analysis
@@ -63,9 +61,8 @@ title: Home
                   technologies such as single molecule/long reads are used and
                   novel data analysis modalities are applied. We thus seek
                   contributions where algorithms and methods that take HTS data
-                  and convert this into a biological signal.  <br />
-                  <p> </p>
-                </span> </li>
+                  and convert this into a biological signal.<br />                  
+                </li>
               <li class="last"><br />
               </li>
             </ul>

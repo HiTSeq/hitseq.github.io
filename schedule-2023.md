@@ -5,7 +5,7 @@ title: Schedule 2023
 
 
 <div class="box">
-  <h2>Schedule of HiTSeq 2023</h2>
+  <h2>Schedule of HiTSeq 2023<br />July 25-26, 2023, Lyon, France</h2>
 
 
   <h3>Keynote speakers</h3>
