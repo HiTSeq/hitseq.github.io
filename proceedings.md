@@ -6,7 +6,7 @@ title: Proceedings
 <div class="box">
   <h2>Proceedings of past HiTSeq Meetings</h2>
   <ul>
-    <li>HiTSeq 2024: July 13-14, 2024. Montreal, QC, Canada (<a href="./schedule-2024.html">schedule</a>)</li>
+    <li><a href="abstracts/abstracts-2024.pdf">HiTSeq 2024</a>: July 13-14, 2024. Montreal, QC, Canada (<a href="./schedule-2024.html">schedule</a>)</li>
     <li><a href="abstracts/abstracts-2023.pdf">HiTSeq 2023</a>: July 25-26, 2023. Lyon, France (<a href="./schedule-2023.html">schedule</a>)</li>
     <li><a href="abstracts/abstracts-2022.pdf">HiTSeq 2022</a>: July 12-13, 2022. Madison, WI, USA</li>
     <li><a href="abstracts/abstracts-2021.pdf">HiTSeq 2021</a>: July 25-27, 2021. Lyon, France (virtual)</li>
