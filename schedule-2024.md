@@ -122,7 +122,7 @@ title: Schedule 2024
 
 	      <tr><td style="vertical-align: top;"><strong>17:00-18:00</strong></td><td>
 		  <strong>Keynote:</strong> Long-read sequencing and pangenome perspective of structural variation<br />
-		  Presenter: University of Washington, Seattle, WA, United States<br />    
+		  Presenter: Evan E. Eichler, University of Washington, Seattle, WA, United States<br />    
 		  Format: In person</td></tr>
 	      </tbody>
 	    </table>
