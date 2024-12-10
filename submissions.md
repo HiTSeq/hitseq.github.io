@@ -59,17 +59,18 @@ title: Submissions
   conference schedule. Authors of abstracts selected for oral
   presentations should confirm their intent to attend the conference
   and present their work promptly, else their slot will be allocated
-  to other abstract. All proceedings paper submissions will be
-  automatically considered for abstracts irrespective of the outcome
-  of the full paper review.</p>
+  to another abstract.</p>
+  
+  <!--
   <p><br />
   </p>
-  <!--
-      <p>Submission through EasyChair at <a href="http://easychair.org/my/conference?conf=ismb2020abstracts"                target="_blank">http://easychair.org/my/conference?conf=ismb2020abstracts</a></p>            <p>Direct link to EasyChair: <a href="https://easychair.org/conferences/?conf=ismbeccb2024abstract">https://easychair.org/conferences/?conf=ismbeccb2024abstract</a></p>-->
+  <p>Submission through EasyChair at <a href="http://easychair.org/my/conference?conf=ismb2020abstracts"                target="_blank">http://easychair.org/my/conference?conf=ismb2020abstracts</a></p>            <p>Direct link to EasyChair: <a href="https://easychair.org/conferences/?conf=ismbeccb2024abstract">https://easychair.org/conferences/?conf=ismbeccb2024abstract</a></p>
   <p><br />
   </p>
   <p>Please make sure to select HiTSeq as the relevant track.<br />
   </p>
+  -->
+
   <!-- All submissions are closed.<br class="clearfix" /> --> 
 </div>
 
