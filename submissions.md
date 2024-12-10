@@ -5,19 +5,22 @@ title: Submissions
 
 <div class="box">
   <h2>Call for Proceedings</h2>
-  We are soliciting high-quality papers that will go through rigorous
-  peer-review. Accepted papers will be presented at HiTSeq as either
-  posters or talks, and will be published in a special proceedings
-  section of the Bioinformatics journal. Papers requiring extensive
-  revisions will be considered separately as regular papers for the
-  Bioinformatics or Bioinformatics Advances journals and as abstracts
-  for HiTSeq. All manuscripts should be submitted via the <a href="https://www.iscb.org/ismbeccb2025">ISMB/ECCB
+
+  <p>We are soliciting high-quality papers that will go through
+  rigorous peer-review. Accepted papers will be presented at HiTSeq
+  and will be published in a special proceedings issue of the
+  Bioinformatics journal.  Papers which are ranked highly but are not
+  accepted may be offered a transfer the ISCB journal Bioinformatics
+  Advances.</p>
+
+
+  <p>All manuscripts should be submitted via the <a href="https://www.iscb.org/ismbeccb2025/call-for-submissions/proceedings">ISMB/ECCB
     2025</a> Proceedings submission system. During submission please
   select the general subject of your submissions, and then make sure
   to <strong>specify</strong> <strong>HiTSeq</strong> as the COSI of
   your submission, to ensure your manuscript is assigned to our track.
-  Please follow the submissions guidelines and process as for the rest
-  of the ISMB Proceedings Submissions.
+  Please follow the submissions guidelines 
+  of the ISMB Proceedings Submissions.</p>
 </div>
 
 <div class="box">
