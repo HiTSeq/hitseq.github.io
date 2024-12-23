@@ -19,7 +19,7 @@ title: Schedule
                   ETH Zurich, Switzerland</td>
               </tr>
               <tr>
-                <td><img src="images/goke.png" alt="Jonathan Göke" title="Jonathan Göke" /><br />
+                <td><img src="images/goke.jpg" alt="Jonathan Göke" title="Jonathan Göke" /><br />
                 </td>
                 <td><a href="https://jglab.org/"> Jonathan Göke</a><br />
                   Group Leader<br />
