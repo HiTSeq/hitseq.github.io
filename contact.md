@@ -26,7 +26,6 @@ title: Contact
                 <h2>Follow us at Bluesky</h2>
                 <span><a href="https://bsky.app/profile/hitseq.bsky.social" class="bluesky-follow-button"
                     data-show-count="false" target="_blank">Follow @HiTSeq</a>
-<span></span></p>
                 </span></li>
 </ul>
 </div>
