@@ -10,7 +10,7 @@ title: Contact
             <ul class="list">
               <li class="first">Organizers: hitseq {at} hitseq.org</li>
               <li class="last">
-                <h2>Follow us at Twitter</h2>
+                <h2>Follow us at X</h2>
                 <span><a href="https://twitter.com/HiTSeq" class="twitter-follow-button"
                     data-show-count="false" target="_blank">Follow @HiTSeq</a>
                   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -22,6 +22,13 @@ title: Contact
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>Please
                     use hashtag #hitseq2025 for posting. <span></span></p>
                 </span></li>
-            </ul>
+              <li class="last">
+                <h2>Follow us at Bluesky</h2>
+                <span><a href=https://bsky.app/profile/hitseq.bsky.social" class="bluesky-follow-button"
+                    data-show-count="false" target="_blank">Follow @HiTSeq</a>
+<span></span></p>
+                </span></li>
+
+</ul>
 </div>
 
