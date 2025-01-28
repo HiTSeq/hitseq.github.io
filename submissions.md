@@ -60,12 +60,6 @@ title: Submissions
   and present their work promptly, else their slot will be allocated
   to another abstract.</p>
   
-  <p><br />
-  </p>
-  <p>Submission through EasyChair at  <a href="https://easychair.org/my/conference?conf=ismbeccb2025">https://easychair.org/my/conference?conf=ismbeccb2025</a><br />
-  Please make sure to select HiTSeq as the relevant track.<br />
-  </p>
-  
   <!-- All submissions are closed.<br class="clearfix" /> --> 
 </div>
 
