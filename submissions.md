@@ -28,9 +28,8 @@ title: Submissions
   <p> We are soliciting high-quality <b>unpublished</b> abstracts.
     Accepted abstracts will be presented at HiTSeq as either posters
     or talks. All abstracts should be submitted via the
-    <!-- TODO
-    <a href="https://easychair.org/conferences/?conf=ismbe024abstract">-->
-    ISMB/ECCB 2025 Abstracts submission system<!-- </a>-->. <b>Please make sure to
+    <a href="https://easychair.org/my/conference?conf=ismbeccb2025">
+    ISMB/ECCB 2025 Abstracts submission system</a>. <b>Please make sure to
       select HiTSeq as track </b>to ensure your manuscript is
     assigned to our track. Please submit your abstracts as 1-2 page
     PDF files, with font size 11, and <i>reasonable</i> margins. </p>
@@ -61,16 +60,12 @@ title: Submissions
   and present their work promptly, else their slot will be allocated
   to another abstract.</p>
   
-  <!--
   <p><br />
   </p>
-  <p>Submission through EasyChair at <a href="http://easychair.org/my/conference?conf=ismb2020abstracts"                target="_blank">http://easychair.org/my/conference?conf=ismb2020abstracts</a></p>            <p>Direct link to EasyChair: <a href="https://easychair.org/conferences/?conf=ismbeccb2024abstract">https://easychair.org/conferences/?conf=ismbeccb2024abstract</a></p>
-  <p><br />
+  <p>Submission through EasyChair at  <a href="https://easychair.org/my/conference?conf=ismbeccb2025">https://easychair.org/my/conference?conf=ismbeccb2025</a><br />
+  Please make sure to select HiTSeq as the relevant track.<br />
   </p>
-  <p>Please make sure to select HiTSeq as the relevant track.<br />
-  </p>
-  -->
-
+  
   <!-- All submissions are closed.<br class="clearfix" /> --> 
 </div>
 
