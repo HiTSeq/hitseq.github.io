@@ -76,8 +76,12 @@ title: Schedule
  <td style="vertical-align: top;">SpliSync: Genomic language model-driven splice site correction of long RNA reads<br/>Wui Wang Lui, Liliana Florea<br/>Presenter Liliana Florea, Johns Hopkins University, United States (in person)</td>
 </tr>
 <tr>
- <td style="vertical-align: top;"><strong>15:20-15:40</strong></td>
+ <td style="vertical-align: top;"><strong>15:20-15:30</strong></td>
  <td style="vertical-align: top;">adverSCarial: a toolkit for exposing classifier vulnerabilities in single-cell transcriptomics<br/>Ghislain Fievet, Julien Broséus, David Meyre, Sébastien Hergalant<br/>Presenter Ghislain Fievet, Université de Lorraine, France (in person)</td>
+</tr>
+<tr>
+ <td style="vertical-align: top;"><strong>15:30-15:40</strong></td>
+ <td style="vertical-align: top;">Quality assessment of long read data in multisample lrRNA-seq experiments using SQANTI-reads<br/>Netanya Keil, Carolina Monzó, Lauren McIntyre, Ana Conesa<br/>Presenter Netanya Keil, University of Florida, United States (in person)</td>
 </tr>
 <tr>
  <td style="vertical-align: top;"><strong>15:40-16:00</strong></td>
@@ -88,11 +92,7 @@ title: Schedule
  <td style="vertical-align: top;"><strong>Invited Presentation:</strong> Bioinformatics analysis for long-read RNA sequencing: challenges and promises<br/>Presenter Elizabeth Tseng, Pacific Biosciences, United States (in person)</td>
 </tr>
 <tr>
- <td style="vertical-align: top;"><strong>17:00-17:20</strong></td>
- <td style="vertical-align: top;">Quality assessment of long read data in multisample lrRNA-seq experiments using SQANTI-reads<br/>Netanya Keil, Carolina Monzó, Lauren McIntyre, Ana Conesa<br/>Presenter Netanya Keil, University of Florida, United States (in person)</td>
-</tr>
-<tr>
- <td style="vertical-align: top;"><strong>17:20-18:20</strong></td>
+ <td style="vertical-align: top;"><strong>17:00-18:00</strong></td>
  <td style="vertical-align: top;"><strong>Invited Presentation:</strong> Quantifying RNA Expression and Modifications using Long Read RNA-Seq<br/>Presenter Jonathan Göke, Genome Institute of Singapore (in person)</td>
 </tr>
 </tbody>
