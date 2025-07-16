@@ -111,7 +111,7 @@ title: Schedule
 </tr>
 <tr>
  <td style="vertical-align: top;"><strong>09:40-10:00</strong></td>
- <td style="vertical-align: top;"><strong>Invited Presentation:</strong> Resolving Paralogues and Multi-Copy Genes with Nanopore Long-Read Sequencing<br/>Presenter Sergey Nurk, Oxford Nanopore Technologies (in person)</td>
+ <td style="vertical-align: top;"><strong>Invited Presentation:</strong>  Latest advances in bioinformatics for Oxford Nanopore data<br/>Presenter Mike Vella, Oxford Nanopore Technologies (in person)</td>
 </tr>
 <tr>
  <td style="vertical-align: top;"><strong>11:20-11:40</strong></td>
