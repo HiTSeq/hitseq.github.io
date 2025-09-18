@@ -13,25 +13,30 @@ title: Submissions
   accepted may be offered a transfer the ISCB journal Bioinformatics
   Advances.</p>
 
-
-  <p>All manuscripts should be submitted via the <a href="https://www.iscb.org/ismbeccb2025/call-for-submissions/proceedings">ISMB/ECCB
-    2025</a> Proceedings submission system. During submission please
+<!--
+  <p>All manuscripts should be submitted via the <a href="https://www.iscb.org/ismb2026/call-for-submissions/proceedings">ISMB
+    2026</a> Proceedings submission system. During submission please
   select the general subject of your submissions, and then make sure
   to <strong>specify</strong> <strong>HiTSeq</strong> as the COSI of
   your submission, to ensure your manuscript is assigned to our track.
   Please follow the submissions guidelines 
   of the ISMB Proceedings Submissions.</p>
+  -->
 </div>
 
 <div class="box">
   <h2>Call for Abstracts</h2>
   <p> We are soliciting high-quality <b>unpublished</b> abstracts.
     Accepted abstracts will be presented at HiTSeq as either posters
-    or talks. All abstracts should be submitted via the
-    <a href="https://easychair.org/my/conference?conf=ismbeccb2025">
-    ISMB/ECCB 2025 Abstracts submission system</a>. <b>Please make sure to
+    or talks.
+
+    <!-- TODO All abstracts should be submitted via the
+    <a href="https://easychair.org/my/conference?conf=ismb2026">
+    ISMB 2026 Abstracts submission system</a>. <b>Please make sure to
       select HiTSeq as track </b>to ensure your manuscript is
-    assigned to our track. Please submit your abstracts as 1-2 page
+    assigned to our track.
+    -->
+    Please submit your abstracts as 1-2 page
     PDF files, with font size 11, and <i>reasonable</i> margins. </p>
   <p> You can submit either: 
     <br />

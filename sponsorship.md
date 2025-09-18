@@ -6,10 +6,13 @@ title: Sponsorship
 
 <div class="box">
   <h2>Sponsorship</h2>
-  <div style="text-align: center;">  
+
+<!--
+<div style="text-align: center;">  
      <a href="https://nanoporetech.com/" target=_blank><img src="images/ont-logo.svg" width="200px"></a> &nbsp;&nbsp;
      <a href="https://www.pacb.com/" target=_blank><img src="images/logo-pacbio.svg" width="200px"></a> 
   </div>
+-->
 <div></div>
 <div class="box">
   HiTSeq is one of the best attended track meetings of

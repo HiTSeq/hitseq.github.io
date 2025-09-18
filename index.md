@@ -5,12 +5,12 @@ title: Home
 
 
 <div class="box">
-            <h2>Welcome to HiTSeq 2025<!-- Place this tag where you want the +1 button to render. -->
+            <h2>Welcome to HiTSeq 2026<!-- Place this tag where you want the +1 button to render. -->
             </h2>
             HiTSeq is the yearly gathering of the ISCB Community of Special
             Interest in High Throughput Sequencing algorithms. This meeting
-            takes the form of a topical track at the <a href="https://www.iscb.org/ismbeccb2025/home"
-              target="_top">ISMB/ECCB 2025 Conference</a>, and is devoted to the
+            takes the form of a topical track at the <a href="https://www.iscb.org/ismb2026/home"
+              target="_top">ISMB 2026 Conference</a>, and is devoted to the
             latest advances in computational techniques for the analysis of
             high-throughput sequencing (HTS) data. It provides a forum for in
             depth presentations of novel algorithms, analysis methods, and
