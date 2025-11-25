@@ -7,31 +7,28 @@ title: Schedule
 <div class="box">
           <h3>Keynote speakers</h3>
 
-	  <p>To be announced.</p>
-
-          <!--
           <table width="100%" border="1">
             <tbody>
               <tr>
-                <td><img src="images/boeva.jpg" alt="Valentina Boeva" title="Valentina Boeva" /><br />
+                <td><img src="images/andre_kahles.jpg" alt="Andre Kahles" title="Andre Kahles" /><br />
                 </td>
-                <td><a href="https://boevalab.inf.ethz.ch/index.html"> Valentina Boeva</a><br />
-                  Assistant Professor<br />
-                  ETH Zurich, Switzerland</td>
+                <td><a href="https://bmi.inf.ethz.ch/people/person/andre-kahles">Andre Kahles</a><br />
+                  Senior Scientist<br />
+                  ETH Zürich, Switzerland</td>
               </tr>
               <tr>
-                <td><img src="images/goke.jpg" alt="Jonathan Göke" title="Jonathan Göke" /><br />
+                <td><img src="images/christopher_mason" alt="Christopher E. Mason" title="Christopher E. Mason" /><br />
                 </td>
-                <td><a href="https://jglab.org/"> Jonathan Göke</a><br />
-                  Group Leader<br />
-                  Genome Institute of Singapore</td>
-              </tr>
-              <tr>
-                <td><img src="images/marschall.jpg" alt="Tobias Marschall" title="Tobias Marschall" /><br />
-                </td>
-                <td><a href="https://marschall-lab.github.io/"> Tobias Marschall</a><br />
+                <td><a href="https://www.masonlab.net/">Christopher E. Mason</a><br />
                   Professor<br />
-                  Heinrich Heine University Düsseldorf, Germany</td>
+                  Weill Cornell Medicine, USA</td>
+              </tr>
+              <tr>
+                <td><img src="images/mihaela_pertea.jpg" alt="Mihaela Pertea" title="Mihaela Pertea" /><br />
+                </td>
+                <td><a href="https://pertealab.org/">Mihaela Pertea</a><br />
+                  Associate Professor<br />
+                  Johns Hopkins University, USA</td>
               </tr>
             </tbody>
           </table>
