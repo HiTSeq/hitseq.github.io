@@ -13,7 +13,6 @@ title: Submissions
   accepted may be offered a transfer the ISCB journal Bioinformatics
   Advances.</p>
 
-<!--
   <p>All manuscripts should be submitted via the <a href="https://www.iscb.org/ismb2026/call-for-submissions/proceedings">ISMB
     2026</a> Proceedings submission system. During submission please
   select the general subject of your submissions, and then make sure
@@ -21,7 +20,6 @@ title: Submissions
   your submission, to ensure your manuscript is assigned to our track.
   Please follow the submissions guidelines 
   of the ISMB Proceedings Submissions.</p>
-  -->
 </div>
 
 <div class="box">

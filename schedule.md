@@ -17,7 +17,7 @@ title: Schedule
                   ETH Zürich, Switzerland</td>
               </tr>
               <tr>
-                <td><img src="images/christopher_mason" alt="Christopher E. Mason" title="Christopher E. Mason" /><br />
+                <td><img src="images/christopher_mason.jpg" alt="Christopher E. Mason" title="Christopher E. Mason" /><br />
                 </td>
                 <td><a href="https://www.masonlab.net/">Christopher E. Mason</a><br />
                   Professor<br />
@@ -31,8 +31,7 @@ title: Schedule
                   Johns Hopkins University, USA</td>
               </tr>
             </tbody>
-          </table>
-	  -->
+          </table>	
           <p><br />
           </p>
 	  
