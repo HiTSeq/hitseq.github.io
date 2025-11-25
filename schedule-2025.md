@@ -43,6 +43,12 @@ title: Schedule
 
 </div>
 
+<h3>Prizes awarded</h3>
+
+<p>The best presentation: Netanya Keil, Quality assessment of long read data in multisample lrRNA-seq experiments using SQANTI-reads</p>
+
+<p>Best poster presentation: Qiuyu Lian, Harmonization, integration, and annotation of single-cell protein and transcriptomic atlases via unified cell ontology learning</p>
+
 <h3>Wednesday July 23, 2025</h3>
 
 <p>All times listed are in BST, Room: 01A</p>
