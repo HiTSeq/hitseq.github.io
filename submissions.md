@@ -28,12 +28,11 @@ title: Submissions
     Accepted abstracts will be presented at HiTSeq as either posters
     or talks.
 
-    <!-- TODO All abstracts should be submitted via the
+    All abstracts should be submitted via the
     <a href="https://easychair.org/my/conference?conf=ismb2026">
     ISMB 2026 Abstracts submission system</a>. <b>Please make sure to
       select HiTSeq as track </b>to ensure your manuscript is
     assigned to our track.
-    -->
     Please submit your abstracts as 1-2 page
     PDF files, with font size 11, and <i>reasonable</i> margins. </p>
   <p> You can submit either: 
