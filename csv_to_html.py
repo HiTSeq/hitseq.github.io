@@ -21,6 +21,28 @@ def format_date(date_str):
     except ValueError:
         return date_str
 
+
+def find_presenter_in_authors(presenter, authors_list):
+    p_clean = presenter.strip().lower()
+    for idx, author in enumerate(authors_list):
+        if author.strip().lower() == p_clean:
+            return idx
+            
+    best_idx = -1
+    best_ratio = 0.0
+    for idx, author in enumerate(authors_list):
+        a_clean = author.strip().lower()
+        import difflib
+        ratio = difflib.SequenceMatcher(None, p_clean, a_clean).ratio()
+        if ratio > best_ratio:
+            best_ratio = ratio
+            best_idx = idx
+            
+    if best_ratio >= 0.8:
+        return best_idx
+        
+    return -1
+
 def convert_csv_to_html(csv_path, html_path, timezone="EST"):
     rows_by_date = defaultdict(list)
     
@@ -85,28 +107,40 @@ def convert_csv_to_html(csv_path, html_path, timezone="EST"):
             
             time_range = f"{format_time(start_time)}-{format_time(end_time)}"
             
+            # Parse authors list
+            authors_list = [a.strip() for a in authors.split(",") if a.strip()]
+            if presenter:
+                idx = find_presenter_in_authors(presenter, authors_list)
+                if idx != -1:
+                    authors_list[idx] = f"<strong>{authors_list[idx]}</strong>"
+                else:
+                    if authors_list:
+                        authors_list.append(f"<strong>{presenter}</strong>")
+                    else:
+                        authors_list = [f"<strong>{presenter}</strong>"]
+            
+            formatted_authors = ", ".join(authors_list)
+
             # Style classification
             if title.lower() == "welcome":
                 content = f"<strong>{title}</strong>"
             elif title.lower() == "tbd":
                 # Invited Presentation
-                # Omit format suffix if format is empty
                 pres_name = presenter if presenter else authors
-                pres_info = f"Presenter {pres_name}"
-                if format_val:
-                    pres_info += f" ({format_val.lower()})"
-                content = f"<strong>Invited Presentation:</strong> {title}<br/>{pres_info}"
+                if pres_name:
+                    content = f"<strong>Invited Presentation:</strong> {title}<br/><strong>{pres_name}</strong>"
+                else:
+                    content = f"<strong>Invited Presentation:</strong> {title}"
             else:
                 # Regular or Proceedings presentation
                 # If abstract starts with "Motivation:", it is a Proceedings Presentation
                 is_proceedings = abstract.startswith("Motivation:") or "\nMotivation:" in abstract
                 prefix = "Proceedings Presentation: " if is_proceedings else ""
                 
-                pres_info = f"Presenter {presenter}"
-                if format_val:
-                    pres_info += f" ({format_val.lower()})"
-                    
-                content = f"{prefix}{title}<br/>{authors}<br/>{pres_info}"
+                if formatted_authors:
+                    content = f"{prefix}{title}<br/>{formatted_authors}"
+                else:
+                    content = f"{prefix}{title}"
                 
             # Build the row HTML
             row_html = (
