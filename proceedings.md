@@ -6,6 +6,7 @@ title: Proceedings
 <div class="box">
   <h2>Proceedings of past HiTSeq Meetings</h2>
   <ul>
+    <li><a href="abstracts/abstracts-2026.pdf">HiTSeq 2026</a>: July 13-14, 2025. Washington, DC, United States (<a href="./schedule-2026.html">schedule</a>)</li>  
     <li><a href="abstracts/abstracts-2025.pdf">HiTSeq 2025</a>: July 23-24, 2025. Liverpool, United Kingdom (<a href="./schedule-2025.html">schedule</a>)</li>  
     <li><a href="abstracts/abstracts-2024.pdf">HiTSeq 2024</a>: July 13-14, 2024. Montreal, QC, Canada (<a href="./schedule-2024.html">schedule</a>)</li>
     <li><a href="abstracts/abstracts-2023.pdf">HiTSeq 2023</a>: July 25-26, 2023. Lyon, France (<a href="./schedule-2023.html">schedule</a>)</li>

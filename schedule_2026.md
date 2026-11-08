@@ -1,3 +1,54 @@
+---
+layout: default
+title: Schedule
+---
+
+<div class="box">
+
+<h2>Schedule of HiTSeq 2026<br />July 13-14, 2025, Washington, DC, United States</h2>
+
+<h3>Keynote speakers</h3>
+
+          <table width="100%" border="1">
+            <tbody>
+              <tr>
+                <td><img src="images/andre_kahles.jpg" alt="Andre Kahles" title="Andre Kahles" /><br />
+                </td>
+                <td><a href="https://bmi.inf.ethz.ch/people/person/andre-kahles">Andre Kahles</a><br />
+                  Senior Scientist<br />
+                  ETH Zürich, Switzerland</td>
+              </tr>
+              <tr>
+                <td><img src="images/christopher_mason.jpg" alt="Christopher E. Mason" title="Christopher E. Mason" /><br />
+                </td>
+                <td><a href="https://www.masonlab.net/">Christopher E. Mason</a><br />
+                  Professor<br />
+                  Weill Cornell Medicine, USA</td>
+              </tr>
+              <tr>
+                <td><img src="images/mihaela_pertea.jpg" alt="Mihaela Pertea" title="Mihaela Pertea" /><br />
+                </td>
+                <td><a href="https://pertealab.org/">Mihaela Pertea</a><br />
+                  Associate Professor<br />
+                  Johns Hopkins University, USA</td>
+              </tr>
+            </tbody>
+          </table>	
+          <p><br />
+          </p>
+	  
+
+</div>
+
+<!--
+These are from 2025:
+<h3>Prizes awarded</h3>
+
+<p>The best presentation: Netanya Keil, Quality assessment of long read data in multisample lrRNA-seq experiments using SQANTI-reads</p>
+
+<p>Best poster presentation: Qiuyu Lian, Harmonization, integration, and annotation of single-cell protein and transcriptomic atlases via unified cell ontology learning</p>
+-->
+
 <h3>Monday, July 13, 2026</h3>
 
 <p>All times listed are in EST, Room: International Ballroom Center</p>
@@ -119,3 +170,6 @@
 </tr>
 </tbody>
 </table>
+
+</div>
+
