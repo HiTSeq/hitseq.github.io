@@ -3,7 +3,9 @@ layout: default
 title: Schedule
 ---
 
+<p>To be annonced</p>
 
+<!--
 <div class="box">
           <h3>Keynote speakers</h3>
 
@@ -38,12 +40,6 @@ title: Schedule
 
 </div>
 
-<!--
-<h3>Monday July 13, 2026</h3>
-
-<p>All times listed are in EST, Room: International Ballroom Center</p>
-...
--->
 <h3>Monday, July 13, 2026</h3>
 
 <p>All times listed are in EST, Room: International Ballroom Center</p>
@@ -165,3 +161,4 @@ title: Schedule
 </tr>
 </tbody>
 </table>
+-->
