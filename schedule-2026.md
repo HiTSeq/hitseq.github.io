@@ -40,14 +40,6 @@ title: Schedule
 
 </div>
 
-<!--
-These are from 2025:
-<h3>Prizes awarded</h3>
-
-<p>The best presentation: Netanya Keil, Quality assessment of long read data in multisample lrRNA-seq experiments using SQANTI-reads</p>
-
-<p>Best poster presentation: Qiuyu Lian, Harmonization, integration, and annotation of single-cell protein and transcriptomic atlases via unified cell ontology learning</p>
--->
 
 <h3>Monday, July 13, 2026</h3>
 
@@ -171,5 +163,5 @@ These are from 2025:
 </tbody>
 </table>
 
-</div>
+
 
