@@ -56,6 +56,11 @@ title: Committees
                   <p>E-mail: ksahlin {at} math.su.se<br />
                   </p>
                 </span></li>
+                <h4>Mingfu Shao</h4>
+                <span>The Pennsylvania State University, USA</span>
+                  <p>E-mail: mxs2589 {at} psu.edu<br />
+                  </p>
+                </li>
             </ul>
             <p> </p>
 </div>
